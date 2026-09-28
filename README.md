@@ -11,7 +11,7 @@ algorithmic problem solving using Python.
 
 ## HackerRank Profile
 
-HackerRank Profile: **[Add your HackerRank profile link here]**
+HackerRank Profile: https://www.hackerrank.com/profile/bharathananya271
 
 ## Problems Solved
 
@@ -59,33 +59,6 @@ strings matching each query.
 
 [View Solution](./Sparse-Arrays/solution.py)
 
-## HackerRank Submission Evidence
-
-Screenshots of the accepted HackerRank submissions will be added here.
-
-### Diagonal Difference
-
-_Add screenshot here_
-
-### Dynamic Array
-
-_Add screenshot here_
-
-### Time Conversion
-
-_Add screenshot here_
-
-### Compare the Triplets
-
-_Add screenshot here_
-
-### Sparse Arrays
-
-_Add screenshot here_
-
-## HackerRank Badge
-
-_Add screenshot of the earned HackerRank 3-Star badge here._
 
 ## Learning Outcomes
 
